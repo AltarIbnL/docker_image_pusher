@@ -1,5 +1,5 @@
 nginx
-minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
