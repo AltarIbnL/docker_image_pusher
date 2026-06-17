@@ -9,3 +9,4 @@ ghcr.io/open-webui/open-webui:main-slim
 ubuntu:22.04 
 freepeak/db-mcp-server:latest
 python:3.11.7-slim-bookworm
+minio/mc:latest
